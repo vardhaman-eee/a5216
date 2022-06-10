@@ -57,11 +57,11 @@ FOUR QUADRANT OPERATIONS OF DC DRIVES: Electric Braking – Plugging, Dynamic an
 
 ## <a name="lecturenotes">Lecture Notes</a>
 
-1. Unit I [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link)
-2. Unit II [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link)
-3. Unit III [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link)
-4. Unit IV [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link)
-5. Unit V [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link)
+1. Unit I [Download](link)
+2. Unit II [Download](link)
+3. Unit III [Download](link)
+4. Unit IV [Download](link)
+5. Unit V [Download](link)
 
 <hr>
 
@@ -73,25 +73,24 @@ Inform the instructor any time *prior* to the due date for an assignment that yo
 
 | #  | Name | Assigned | Due |
 |:--:|-----||:--------:|:---:|
-|1 | [Info Sheet](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link) | W Aug 28 | F Aug 30 |
-|2 | [Sample Homework]({{site.baseurl}}/homework/function-reading.pdf) | F Sep 27 | W Oct 2 |
-|3 | [Sample Homework]({{site.baseurl}}/homework/function-reading.pdf) | F Sep 27 | W Oct 2 |
-|4 | [Sample Homework]({{site.baseurl}}/homework/function-reading.pdf) | F Sep 27 | W Oct 2 |
+|1 | [Assignment # 1](link) | - | - |
+|2 | [Assignment # 2](link) | - | - |
+|3 | [Assignment # 3](link) | - | - |
 
 ## <a name="practice">Practice</a>
 
-1. Speed Control of DC Motor using single phase Half Converter. [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link)
-2. Speed Control of DC Motor using single phase Full Converter. [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link)
-3. Speed Control of DC Motor using Jone's Chopper. [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link)
-4. Light intensity control using single phase AC voltage regulator. [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link)
-5. Speed Control of single phase AC Motor using single phase AC voltage controller. [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link)
-6. Single phase Cyclo-converter fed AC Motor. [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link)
-7. Performance characteristics of series inverter for light load. [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link)
-8. Speed control of PMDC motor using MOSFET based Buck/Boost Converter. [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link)
-9. Simulation of 3 phase Half Controlled Bridge DC drives using MATLAB/ Simulink. [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link)
-10. Simulation of three-phase Induction Motor drive with VVVF control using MATLAB/Simulink. [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link)
-11. Simulation of closed loop control of PMDC Motor with half wave rectifier using MATLAB/Simulink. [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link)
-12. Simulation of four quadrant chopper fed DC motor using MATLAB/ Simulink. [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link)
+1. Speed Control of DC Motor using single phase Half Converter. [Download](link)
+2. Speed Control of DC Motor using single phase Full Converter. [Download](link)
+3. Speed Control of DC Motor using Jone's Chopper. [Download](link)
+4. Light intensity control using single phase AC voltage regulator. [Download](link)
+5. Speed Control of single phase AC Motor using single phase AC voltage controller. [Download](link)
+6. Single phase Cyclo-converter fed AC Motor. [Download](link)
+7. Performance characteristics of series inverter for light load. [Download](link)
+8. Speed control of PMDC motor using MOSFET based Buck/Boost Converter. [Download](link)
+9. Simulation of 3 phase Half Controlled Bridge DC drives using MATLAB/ Simulink. [Download](link)
+10. Simulation of three-phase Induction Motor drive with VVVF control using MATLAB/Simulink. [Download](link)
+11. Simulation of closed loop control of PMDC Motor with half wave rectifier using MATLAB/Simulink. [Download](link)
+12. Simulation of four quadrant chopper fed DC motor using MATLAB/ Simulink. [Download](link)
 
 
 **Lab attendance is required**.
@@ -100,5 +99,5 @@ Inform the instructor any time *prior* to the due date for an assignment that yo
 
 | #  | Name | Question Paper | Schema  |
 |:--:|-----||:--------:|:---:|
-|1 | CAT - I | [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link) | [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link) |
-|2 | CAT - II | [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link) | [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link) |
+|1 | CAT - I | [Download](link) | [Download](link) |
+|2 | CAT - II | [Download](link) | [Download](link) |
