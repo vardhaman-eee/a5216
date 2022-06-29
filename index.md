@@ -57,11 +57,11 @@ FOUR QUADRANT OPERATIONS OF DC DRIVES: Electric Braking – Plugging, Dynamic an
 
 ## <a name="lecturenotes">Lecture Notes</a>
 
-1. Unit I [Download](link)
-2. Unit II [Download](link)
-3. Unit III [Download](link)
-4. Unit IV [Download](link)
-5. Unit V [Download](link)
+1. Unit I [Download](link){:target="_blank" rel="noopener"}
+2. Unit II [Download](link){:target="_blank" rel="noopener"}
+3. Unit III [Download](link){:target="_blank" rel="noopener"}
+4. Unit IV [Download](link){:target="_blank" rel="noopener"}
+5. Unit V [Download](link){:target="_blank" rel="noopener"}
 
 <hr>
 
@@ -73,24 +73,24 @@ Inform the instructor any time *prior* to the due date for an assignment that yo
 
 | #  | Name | Assigned | Due |
 |:--:|-----||:--------:|:---:|
-|1 | [Assignment # 1](link) | - | - |
-|2 | [Assignment # 2](link) | - | - |
-|3 | [Assignment # 3](link) | - | - |
+|1 | [Assignment # 1](link){:target="_blank" rel="noopener"} | 27.06.2022 | 30.07.2022 |
+|2 | [Assignment # 2](link){:target="_blank" rel="noopener"} | - | - |
+|3 | [Assignment # 3](link){:target="_blank" rel="noopener"} | - | - |
 
 ## <a name="practice">Practice</a>
 
-1. Speed Control of DC Motor using single phase Half Converter. [Download](https://vardhamancoe-my.sharepoint.com/:b:/g/personal/ravivarman_vardhaman_org/EW0_QjB5oGdEmAmgKnILM8EBTdAAudhLxsJ2e1I-kVdzJw?e=L2xtgp)
-2. Speed Control of DC Motor using single phase Full Converter. [Download](https://vardhamancoe-my.sharepoint.com/:b:/g/personal/ravivarman_vardhaman_org/Ec4WA-lFgRZGvdtuOi3gBS8BvMsEIkmv_TZh0Le2ndkrBQ?e=RMdGBY)
-3. Speed Control of DC Motor using Jone's Chopper. [Download](https://vardhamancoe-my.sharepoint.com/:b:/g/personal/ravivarman_vardhaman_org/EXI6xpQJVW5ImTkXafA3YzMBB0XUE3v0ur2CVQDu-hEFPQ?e=MGo60z)
-4. Light intensity control using single phase AC voltage regulator. [Download](https://vardhamancoe-my.sharepoint.com/:b:/g/personal/ravivarman_vardhaman_org/EUzthENwgDBKswpZh2sJORgBW_xKK7aDe_KtKM36PC2Ang?e=vj8tTE)
-5. Speed Control of single phase AC Motor using single phase AC voltage controller. [Download](https://vardhamancoe-my.sharepoint.com/:b:/g/personal/ravivarman_vardhaman_org/EZvxzLRGd-1LmOS0dyWT5v4BX_ubPor6H2b3tbb5b_57pQ?e=WiQjo8)
-6. Speed control of PMDC motor using MOSFET based Buck/Boost Converter. [Download](https://vardhamancoe-my.sharepoint.com/:b:/g/personal/ravivarman_vardhaman_org/EbdwFQxgwyZAlwYzNLaxPLMBVWTAw1Xnmq6zvrEyeH_OsQ?e=adDIla)
-7. Simulation of 3 phase Half Controlled Bridge DC drives using MATLAB/ Simulink. [Download](https://vardhamancoe-my.sharepoint.com/:b:/g/personal/ravivarman_vardhaman_org/EXm0Blm0VR5LtCu35jvgBbwBh6MuEkDkx0eDzBx2rUrlPA?e=EvjK4S)
-8. Simulation of three-phase Induction Motor drive with VVVF control using MATLAB/Simulink. [Download](https://vardhamancoe-my.sharepoint.com/:b:/g/personal/ravivarman_vardhaman_org/Ea0FPJf_ZpVCj4_y9nuHdXoBUXDbJ1JwRLUVoGTPLrztZQ?e=NH0oyB)
-9. Simulation of closed loop control of PMDC Motor with half wave rectifier using MATLAB/Simulink. [Download](link)
-10. Simulation of four quadrant chopper fed DC motor using MATLAB/ Simulink. [Download](link)
-11. Single phase Cyclo-converter fed AC Motor. [Download](link)
-12. Performance characteristics of series inverter for light load. [Download](link)
+1. Speed Control of DC Motor using single phase Half Converter. [Download](https://vardhamancoe-my.sharepoint.com/:b:/g/personal/ravivarman_vardhaman_org/EW0_QjB5oGdEmAmgKnILM8EBTdAAudhLxsJ2e1I-kVdzJw?e=L2xtgp){:target="_blank" rel="noopener"}
+2. Speed Control of DC Motor using single phase Full Converter. [Download](https://vardhamancoe-my.sharepoint.com/:b:/g/personal/ravivarman_vardhaman_org/Ec4WA-lFgRZGvdtuOi3gBS8BvMsEIkmv_TZh0Le2ndkrBQ?e=RMdGBY){:target="_blank" rel="noopener"}
+3. Speed Control of DC Motor using Jone's Chopper. [Download](https://vardhamancoe-my.sharepoint.com/:b:/g/personal/ravivarman_vardhaman_org/EXI6xpQJVW5ImTkXafA3YzMBB0XUE3v0ur2CVQDu-hEFPQ?e=MGo60z){:target="_blank" rel="noopener"}
+4. Light intensity control using single phase AC voltage regulator. [Download](https://vardhamancoe-my.sharepoint.com/:b:/g/personal/ravivarman_vardhaman_org/EUzthENwgDBKswpZh2sJORgBW_xKK7aDe_KtKM36PC2Ang?e=vj8tTE){:target="_blank" rel="noopener"}
+5. Speed Control of single phase AC Motor using single phase AC voltage controller. [Download](https://vardhamancoe-my.sharepoint.com/:b:/g/personal/ravivarman_vardhaman_org/EZvxzLRGd-1LmOS0dyWT5v4BX_ubPor6H2b3tbb5b_57pQ?e=WiQjo8){:target="_blank" rel="noopener"}
+6. Speed control of PMDC motor using MOSFET based Buck/Boost Converter. [Download](https://vardhamancoe-my.sharepoint.com/:b:/g/personal/ravivarman_vardhaman_org/EbdwFQxgwyZAlwYzNLaxPLMBVWTAw1Xnmq6zvrEyeH_OsQ?e=adDIla){:target="_blank" rel="noopener"}
+7. Simulation of 3 phase Half Controlled Bridge DC drives using MATLAB/ Simulink. [Download](https://vardhamancoe-my.sharepoint.com/:b:/g/personal/ravivarman_vardhaman_org/EXm0Blm0VR5LtCu35jvgBbwBh6MuEkDkx0eDzBx2rUrlPA?e=EvjK4S){:target="_blank" rel="noopener"}
+8. Simulation of three-phase Induction Motor drive with VVVF control using MATLAB/Simulink. [Download](https://vardhamancoe-my.sharepoint.com/:b:/g/personal/ravivarman_vardhaman_org/Ea0FPJf_ZpVCj4_y9nuHdXoBUXDbJ1JwRLUVoGTPLrztZQ?e=NH0oyB){:target="_blank" rel="noopener"}
+9. Simulation of closed loop control of PMDC Motor with half wave rectifier using MATLAB/Simulink. [Download](link){:target="_blank" rel="noopener"}
+10. Simulation of four quadrant chopper fed DC motor using MATLAB/ Simulink. [Download](link){:target="_blank" rel="noopener"}
+11. Single phase Cyclo-converter fed AC Motor. [Download](link){:target="_blank" rel="noopener"}
+12. Performance characteristics of series inverter for light load. [Download](link){:target="_blank" rel="noopener"}
 
 
 
@@ -100,5 +100,5 @@ Inform the instructor any time *prior* to the due date for an assignment that yo
 
 | #  | Name | Question Paper | Schema  |
 |:--:|-----||:--------:|:---:|
-|1 | CAT - I | [Download](link) | [Download](link) |
-|2 | CAT - II | [Download](link) | [Download](link) |
+|1 | CAT - I | [Download](link){:target="_blank" rel="noopener"} | [Download](link){:target="_blank" rel="noopener"} |
+|2 | CAT - II | [Download](link){:target="_blank" rel="noopener"} | [Download](link){:target="_blank" rel="noopener"} |
