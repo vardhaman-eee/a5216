@@ -79,18 +79,19 @@ Inform the instructor any time *prior* to the due date for an assignment that yo
 
 ## <a name="practice">Practice</a>
 
-1. Speed Control of DC Motor using single phase Half Converter. [Download](link)
-2. Speed Control of DC Motor using single phase Full Converter. [Download](link)
-3. Speed Control of DC Motor using Jone's Chopper. [Download](link)
-4. Light intensity control using single phase AC voltage regulator. [Download](link)
-5. Speed Control of single phase AC Motor using single phase AC voltage controller. [Download](link)
-6. Single phase Cyclo-converter fed AC Motor. [Download](link)
-7. Performance characteristics of series inverter for light load. [Download](link)
-8. Speed control of PMDC motor using MOSFET based Buck/Boost Converter. [Download](link)
-9. Simulation of 3 phase Half Controlled Bridge DC drives using MATLAB/ Simulink. [Download](link)
-10. Simulation of three-phase Induction Motor drive with VVVF control using MATLAB/Simulink. [Download](link)
-11. Simulation of closed loop control of PMDC Motor with half wave rectifier using MATLAB/Simulink. [Download](link)
-12. Simulation of four quadrant chopper fed DC motor using MATLAB/ Simulink. [Download](link)
+1. Speed Control of DC Motor using single phase Half Converter. [Download](https://vardhamancoe-my.sharepoint.com/:b:/g/personal/ravivarman_vardhaman_org/EW0_QjB5oGdEmAmgKnILM8EBTdAAudhLxsJ2e1I-kVdzJw?e=L2xtgp)
+2. Speed Control of DC Motor using single phase Full Converter. [Download](https://vardhamancoe-my.sharepoint.com/:b:/g/personal/ravivarman_vardhaman_org/Ec4WA-lFgRZGvdtuOi3gBS8BvMsEIkmv_TZh0Le2ndkrBQ?e=RMdGBY)
+3. Speed Control of DC Motor using Jone's Chopper. [Download](https://vardhamancoe-my.sharepoint.com/:b:/g/personal/ravivarman_vardhaman_org/EXI6xpQJVW5ImTkXafA3YzMBB0XUE3v0ur2CVQDu-hEFPQ?e=MGo60z)
+4. Light intensity control using single phase AC voltage regulator. [Download](https://vardhamancoe-my.sharepoint.com/:b:/g/personal/ravivarman_vardhaman_org/EUzthENwgDBKswpZh2sJORgBW_xKK7aDe_KtKM36PC2Ang?e=vj8tTE)
+5. Speed Control of single phase AC Motor using single phase AC voltage controller. [Download](https://vardhamancoe-my.sharepoint.com/:b:/g/personal/ravivarman_vardhaman_org/EZvxzLRGd-1LmOS0dyWT5v4BX_ubPor6H2b3tbb5b_57pQ?e=WiQjo8)
+6. Speed control of PMDC motor using MOSFET based Buck/Boost Converter. [Download](https://vardhamancoe-my.sharepoint.com/:b:/g/personal/ravivarman_vardhaman_org/EbdwFQxgwyZAlwYzNLaxPLMBVWTAw1Xnmq6zvrEyeH_OsQ?e=adDIla)
+7. Simulation of 3 phase Half Controlled Bridge DC drives using MATLAB/ Simulink. [Download](https://vardhamancoe-my.sharepoint.com/:b:/g/personal/ravivarman_vardhaman_org/EXm0Blm0VR5LtCu35jvgBbwBh6MuEkDkx0eDzBx2rUrlPA?e=EvjK4S)
+8. Simulation of three-phase Induction Motor drive with VVVF control using MATLAB/Simulink. [Download](https://vardhamancoe-my.sharepoint.com/:b:/g/personal/ravivarman_vardhaman_org/Ea0FPJf_ZpVCj4_y9nuHdXoBUXDbJ1JwRLUVoGTPLrztZQ?e=NH0oyB)
+9. Simulation of closed loop control of PMDC Motor with half wave rectifier using MATLAB/Simulink. [Download](link)
+10. Simulation of four quadrant chopper fed DC motor using MATLAB/ Simulink. [Download](link)
+11. Single phase Cyclo-converter fed AC Motor. [Download](link)
+12. Performance characteristics of series inverter for light load. [Download](link)
+
 
 
 **Lab attendance is required**.
