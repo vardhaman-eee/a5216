@@ -74,7 +74,7 @@ Inform the instructor any time *prior* to the due date for an assignment that yo
 
 | #  | Name | Assigned | Due |
 |:--:|-----||:--------:|:---:|
-|1 | [Assignment # 1](link){:target="_blank" rel="noopener"} | 27.06.2022 | 30.07.2022 |
+|1 | [Assignment # 1](http://learn.sravivarman.com/course/view.php?id=9){:target="_blank" rel="noopener"} | 27.06.2022 | 30.07.2022 |
 |2 | [Assignment # 2](link){:target="_blank" rel="noopener"} | - | - |
 |3 | [Assignment # 3](link){:target="_blank" rel="noopener"} | - | - |
 
