@@ -32,7 +32,7 @@ A5216.5 Assess different power electronic converter to control speed of synchron
 **CONTROL OF DC MOTORS BY 1-Ph CONTROLLED CONVERTERS:** Introduction to Thyristor controlled Drives, Single Phase Semi and Full controlled converters connected to D.C separately excited and D.C series motors, continuous operation, output voltage and current waveforms. Speed and Torque expressions, Speed – Torque Characteristics. 
 **CONTROL OF DC MOTORS BY 3-Ph CONTROLLED CONVERTERS:** Three phase semi and fully controlled converters connected to D.C separately excited and D.C series motors, output voltage and current waveforms. Speed and Torque expressions, Speed –Torque characteristics, Numerical problems. 
 
-**FOUR QUADRANT OPERATIONS OF DC DRIVES: Electric Braking – Plugging, Dynamic and Regenerative Braking operations, Numerical problems.
+**FOUR QUADRANT OPERATIONS OF DC DRIVES:** Electric Braking – Plugging, Dynamic and Regenerative Braking operations, Numerical problems.
 
 **CONTROL OF DC MOTORS BY CHOPPERS:** Single quadrant, Two –quadrant and four-quadrant chopper fed separately excited dc motor. Continuous operation, Output voltage and current waveforms, Speed torque expressions, speed torque characteristics. Closed loop operation of DC motor (Block Diagram Only) Numerical problems.
 
