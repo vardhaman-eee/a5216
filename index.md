@@ -59,7 +59,7 @@ A5216.5 Assess different power electronic converter to control speed of synchron
 ## <a name="lecturenotes">Lecture Notes</a>
 
 1. Unit I [Download](https://vardhamancoe-my.sharepoint.com/:b:/g/personal/ravivarman_vardhaman_org/EfCTePNiGK5AqJD7WZMN-pEBs8QcUeYTwj_pCIxTD5aRyw?e=QeGdfO){:target="_blank" rel="noopener"}
-2. Unit II [Download](link){:target="_blank" rel="noopener"}
+2. Unit II [Download](https://vardhamancoe-my.sharepoint.com/:b:/g/personal/ravivarman_vardhaman_org/EZjv64IFwpdIqHiWFQ5qMWUBk1KCon8M85hROawv45Fg7g?e=OXIQq6){:target="_blank" rel="noopener"}
 3. Unit III [Download](link){:target="_blank" rel="noopener"}
 4. Unit IV [Download](link){:target="_blank" rel="noopener"}
 5. Unit V [Download](link){:target="_blank" rel="noopener"}
