@@ -100,5 +100,5 @@ Inform the instructor any time *prior* to the due date for an assignment that yo
 
 | #  | Name | Question Paper | Schema  |
 |:--:|-----||:--------:|:---:|
-|1 | CAT - I | [Download](link){:target="_blank" rel="noopener"} | [Download](link){:target="_blank" rel="noopener"} |
+|1 | CAT - I | [Download](https://vardhamancoe-my.sharepoint.com/:b:/g/personal/ravivarman_vardhaman_org/EebmgXOfa9BCo0sKITy67NMBkIgSjb2IHUzAzTGSaA-PjA?e=3BC8WQ){:target="_blank" rel="noopener"} | [Download](link){:target="_blank" rel="noopener"} |
 |2 | CAT - II | [Download](link){:target="_blank" rel="noopener"} | [Download](link){:target="_blank" rel="noopener"} |
