@@ -75,8 +75,7 @@ Inform the instructor any time *prior* to the due date for an assignment that yo
 | #  | Name | Assigned | Due |
 |:--:|-----||:--------:|:---:|
 |1 | [Assignment # 1](http://learn.sravivarman.com/course/view.php?id=9){:target="_blank" rel="noopener"} | 27.06.2022 | 30.07.2022 |
-|2 | [Assignment # 2](link){:target="_blank" rel="noopener"} | - | - |
-|3 | [Assignment # 3](link){:target="_blank" rel="noopener"} | - | - |
+|2 | [Assignment # 2](https://vardhamancoe-my.sharepoint.com/:b:/g/personal/ravivarman_vardhaman_org/ER82NzTCYV9DkOLqD-eBB-wB07HL02DJ1-Qv1d4yRK0qfA?e=ljOKzu){:target="_blank" rel="noopener"} | 12.10.2022 | 15.10.2022 |
 
 ## <a name="practice">Practice</a>
 
